@@ -3,9 +3,9 @@
 
 <br>
 
-<p align="center"> <h3 align="center">Profile Views: </h3> <img align="center" src="https://komarev.com/ghpvc/?username=VaheAA&label=Profile%20views&color=0e75b6&style=flat"
-    alt="VaheAA" /> 
-  </p>
+<h3 align="center">Profile Views: <img  src="https://komarev.com/ghpvc/?username=VaheAA&label=Profile%20views&color=0e75b6&style=flat"
+    alt="VaheAA" /> </h3> 
+
 
 <br>
    
