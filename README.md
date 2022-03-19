@@ -9,11 +9,11 @@
 
 <br>
    
-   <h3>About me:</h3>
+   <h3 align="center">About me:</h3>
 
-- 🌱 Web Development with JavaScript
+<p align="center"> - 🌱 Web Development with JavaScript </p>
 
-- 📫 Email me **vahe.abov@gmail.com**
+<p align="center"> - 📫 Email me **vahe.abov@gmail.com** </p>
 
 
 
