@@ -9,13 +9,9 @@
 
 <br>
    
-   <h3 align="center">About me:</h3>
-
+<h3 align="center">About me:</h3>
 <p align="center"> - 🌱 Web Development with JavaScript </p>
-
 <p align="center"> - 📫 Email me **vahe.abov@gmail.com** </p>
-
-
 
 <br>
 
@@ -73,5 +69,3 @@
       
 <p align="center"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[VaheAA](https://github.com/VaheAA)
