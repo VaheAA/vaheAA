@@ -3,8 +3,6 @@
 
 <br>
 
-
-<br>
    
 <h3 align="center">About me:</h3>
 <p align="center"> - 🌱 Web Development with JavaScript </p>
