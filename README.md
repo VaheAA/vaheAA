@@ -3,10 +3,7 @@
 
 <br>
 
-   
-<h3 align="center">About me:</h3>
-<p align="center"> 🌱 Web Development with JavaScript </p>
-<p align="center"> 📫 Email me: <a href="mailto:vahe.abov@gmail.com" >vahe.abov@gmail.com</a> </p>
+ <p align="center"> 📫 Email me: <a href="mailto:vahe.abov@gmail.com" >vahe.abov@gmail.com</a> </p>
 
 <br>
 
