@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vahe Abovyan</h1>
-<h3 align="center">Web Developer from Armenia 🇦🇲.</h3>
+<h3 align="center">Web Developer from Armenia 🇦🇲</h3>
 
 <br>
 
