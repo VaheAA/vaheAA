@@ -19,8 +19,8 @@
 
 <br>
 
-<h3 align="left">My contacts</h3>
-<p align="left">
+<h3 >My contacts</h3>
+<p >
   <a href="https://www.linkedin.com/in/vahe-abovyan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Vahe Abovyan" height="30" width="40" /></a>
