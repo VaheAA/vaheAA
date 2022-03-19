@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"> <h3 align="center">Profile Views: </h3> <img src="https://komarev.com/ghpvc/?username=VaheAA&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <h3 align="center">Profile Views: </h3> <img align="center" src="https://komarev.com/ghpvc/?username=VaheAA&label=Profile%20views&color=0e75b6&style=flat"
     alt="VaheAA" /> 
   </p>
 
