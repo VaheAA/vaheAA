@@ -30,7 +30,7 @@
       alt="Vahe Abovyan" height="30" width="40" /></a>
  <a href="https://t.me/vahe_aa" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644"
-      alt="Vahe Abovyan" height="30" width="40" /></a>
+      alt="Vahe Abovyan" height="40" width="40" /></a>
 </p>
 
 <br>
