@@ -1,3 +1,24 @@
+ProfileMe.dev
+
+New feature:Changelog added
+
+Introduction
+Skills
+Socials
+Badges
+Support
+
+    Go home
+
+© 2022 Dan Cranney
+Follow me
+|
+Buy Me a Coffee
+Support
+
+Make it easy for people using your products to support you or give donations.
+buymeacoffeeBuy Me a Coffee:
+
 Hi 👋 My name is Vahe Abovyan
 =============================
 
@@ -42,9 +63,9 @@ Freelancing Front End Web Developer with 1+ years of work experience with such t
 </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://www.facebook.com/vahe.abovyan.a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/VaheAA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vahe.aa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vahe-abovyan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13223597/vahe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/vahe.abovyan.a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/VaheAA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vahe.aa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vahe-abovyan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13223597/vahe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -55,3 +76,5 @@ Freelancing Front End Web Developer with 1+ years of work experience with such t
 <a href="http://www.github.com/VaheAA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaheAA&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/VaheAA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaheAA&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ProfileMe.dev | Create an amazing GitHub profile in minutes
