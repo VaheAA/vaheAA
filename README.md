@@ -7,7 +7,7 @@ Front End Web Developer
 Freelancing Front End Web Developer with 1+ years of work experience with such technologies as HTML/CSS/JavaScript, Vue and React.
 
 *   🌍  I'm based in Yerevan
-*   🖥️  See my work on [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
+*   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
 *   ✉️  Reach me - [vahe.abov@gmail.com](mailto:vahe.abov@gmail.com)
 *   🧠  I'm learning Fullstack web development with JavaScript
 
