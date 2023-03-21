@@ -1,10 +1,10 @@
 Hi 👋 My name is Vahe Abovyan
 =============================
 
-Front End Web Developer
+Front-End Developer
 -----------------------
 
-Freelancing Front End Web Developer with 1+ years of work experience with such technologies as HTML/CSS/JavaScript, Vue and React.
+Front-End Web Developer with 1+ years of work experience with such technologies as HTML/CSS/JavaScript, Vue and React.
 
 *   🌍  I'm based in Yerevan
 *   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
