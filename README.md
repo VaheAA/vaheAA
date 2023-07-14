@@ -9,7 +9,6 @@ Full Stack Web developer with over 1,5 years of work experience with such techno
 *   🌍  I'm based in Yerevan
 *   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
 *   ✉️  Reach me - [vahe.abov@gmail.com](mailto:vahe.abov@gmail.com)
-*   🧠  I'm learning Fullstack web development with JavaScript
 
 <a href="https://www.github.com/VaheAA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VaheAA?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
 
