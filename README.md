@@ -1,4 +1,4 @@
-Hi 👋 My name is Vahe Abovyan
+Hi 👋 My name is Vahe
 =============================
 
 Full Stack Developer
