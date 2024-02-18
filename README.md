@@ -4,7 +4,7 @@ Hi 👋 My name is Vahe
 Full Stack Developer
 -----------------------
 
-Full Stack Web developer with over 1,5 years of work experience with such technologies as HTML/CSS/JavaScript/TypeScript.
+Full Stack Web developer with 2 years of work experience with such technologies as HTML/CSS/JavaScript/TypeScript.
 
 *   🌍  I'm based in Yerevan
 *   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
