@@ -1,7 +1,7 @@
 Hi 👋 My name is Vahe
 =============================
 
-Full Stack Developer
+Software Engineer
 -----------------------
 
 Software Engineer with 3 years of specialized experience in JavaScript, focusing on developing dynamic, user-centric applications using React, Vue, and Node.js.
