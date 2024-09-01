@@ -1,10 +1,10 @@
 Hi 👋 My name is Vahe
 =============================
 
-Software Engineer
+Full Stack Engineer
 -----------------------
 
-Software Engineer with 3 years of specialized experience in JavaScript, focusing on developing dynamic, user-centric applications using React, Vue, and Node.js.
+Full Stack Engineer with 3 years of specialized experience in JavaScript, focusing on developing dynamic, user-centric applications using React, Vue, and Node.js.
 
 *   🌍  I'm based in Yerevan
 *   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
