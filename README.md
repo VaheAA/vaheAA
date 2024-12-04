@@ -1,11 +1,19 @@
 Hi 👋 My name is Vahe
 =============================
 
-Full Stack Engineer
+Full Stack Software Engineer
 -----------------------
 
-Software Engineer with 4 years of experience in full-stack development, specializing in crafting scalable, high-performance, and user-centric web applications. Proficient in JavaScript frameworks such as React, Vue, and Node.js, and experienced in Go for backend development, with a strong emphasis on building modular architectures and seamless integrations. Skilled in database optimization for both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, ArangoDB) systems, leveraging tools like Redis to enhance performance. Adept at collaborating in Agile teams, consulting clients, and delivering end-to-end solutions that align with business needs and modern development practices.
+**Software Engineer** with 4 years of experience in full-stack development, specializing in crafting scalable, high-performance, and user-centric web applications.
 
+- **Frontend**: Proficient in JavaScript frameworks such as **React** and **Vue**.
+- **Backend**: Experienced in **Node.js** and **Go** with a strong emphasis on building modular architectures and seamless integrations.
+- **Databases**:
+  - SQL: **PostgreSQL**, **MySQL**.
+  - NoSQL: **MongoDB**, **ArangoDB**.
+  - Performance tools: **Redis**.
+- Skilled in **database optimization** and **system performance enhancement**.
+- Adept at working in **Agile teams**, **consulting clients**, and delivering **end-to-end solutions** aligned with business needs and modern development practices.
 *   🌍  I'm based in Yerevan
 *   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
 *   ✉️  Reach me - [vahe.abov@gmail.com](mailto:vahe.abov@gmail.com)
