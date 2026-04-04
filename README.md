@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 **Software Engineer** with 5 years of experience in full-stack development, specializing in crafting scalable, high-performance, and user-centric web applications and APIs.
 
-- **Frontend**: Proficient in JavaScript/Typescript frameworks such as **React/NextJS** and **Vue/Nuxt**.
+- **Frontend**: Proficient in JavaScript/TypeScript frameworks such as **React/NextJS** and **Vue/Nuxt**.
 - **Backend**: Experienced in **Node.js** with a strong emphasis on building modular architectures and seamless integrations.
 - **Databases**:
   - SQL: **PostgreSQL**, **MySQL**.
