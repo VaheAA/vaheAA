@@ -4,10 +4,10 @@ Hi 👋 My name is Vahe
 Full Stack Software Engineer
 -----------------------
 
-**Software Engineer** with 4 years of experience in full-stack development, specializing in crafting scalable, high-performance, and user-centric web applications.
+**Software Engineer** with 5 years of experience in full-stack development, specializing in crafting scalable, high-performance, and user-centric web applications and APIs.
 
-- **Frontend**: Proficient in JavaScript frameworks such as **React/NextJS** and **Vue/Nuxt**.
-- **Backend**: Experienced in **Node.js** and **Python** with a strong emphasis on building modular architectures and seamless integrations.
+- **Frontend**: Proficient in JavaScript/Typescript frameworks such as **React/NextJS** and **Vue/Nuxt**.
+- **Backend**: Experienced in **Node.js** with a strong emphasis on building modular architectures and seamless integrations.
 - **Databases**:
   - SQL: **PostgreSQL**, **MySQL**.
   - NoSQL: **MongoDB**, **ArangoDB**.
@@ -15,7 +15,7 @@ Full Stack Software Engineer
 - Skilled in **database optimization** and **system performance enhancement**.
 - Adept at working in **Agile teams**, **consulting clients**, and delivering **end-to-end solutions** aligned with business needs and modern development practices.
 *   🌍  I'm based in Yerevan
-*   🖥️  See my work on [My Humble Website](https://vahe-abovyan.me/), [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
+*   🖥️  See my work on [Upwork](http://upwork.com/freelancers/~01567a27390ce8c5f1) and here, on GitHub.
 *   ✉️  Reach me - [vahe.abov@gmail.com](mailto:vahe.abov@gmail.com)
 
 <a href="https://www.github.com/VaheAA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VaheAA?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
