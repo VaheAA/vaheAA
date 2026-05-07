@@ -47,7 +47,7 @@ I specialize in full-stack JavaScript/TypeScript development with strong experie
 
 ## Skills
 
-<p align="left">
+<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
@@ -87,7 +87,7 @@ I specialize in full-stack JavaScript/TypeScript development with strong experie
 
 ## Socials
 
-<p align="left">
+<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
 <a href="https://github.com/VaheAA" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
@@ -106,19 +106,19 @@ I specialize in full-stack JavaScript/TypeScript development with strong experie
 
 ## GitHub Stats
 
-<p align="left">
+<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
 <a href="https://github.com/VaheAA">
   <img src="https://github-readme-stats.vercel.app/api?username=VaheAA&show_icons=true&hide=issues&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true" alt="GitHub stats" />
 </a>
 </p>
 
-<p align="left">
+<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
 <a href="https://github.com/VaheAA">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaheAA&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
 </a>
 </p>
 
-<p align="left">
+<p align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
 <a href="https://github.com/VaheAA">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaheAA&langs_count=8&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&layout=compact" alt="Top languages" />
 </a>
