@@ -27,13 +27,3 @@ Full-stack apps with Node.js, Vue, React. REST & GraphQL APIs, WebSocket real-ti
 
 **Full Stack Engineer (Freelance) — [Upwork](https://www.upwork.com/freelancers/~01567a27390ce8c5f1)** `Mar 2021 – Present`
 Top-Rated. End-to-end client projects — architecture, frontend, backend, API integrations, delivery.
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=VaheAA&show_icons=true&hide=issues&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&bg_color=0d1117&hide_border=true#gh-dark-mode-only" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=VaheAA&show_icons=true&hide=issues&count_private=true&title_color=0969da&text_color=24292f&icon_color=cf222e&bg_color=ffffff&hide_border=true#gh-light-mode-only" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaheAA&langs_count=8&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true#gh-dark-mode-only" alt="Top languages" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaheAA&langs_count=8&layout=compact&title_color=0969da&text_color=24292f&bg_color=ffffff&hide_border=true#gh-light-mode-only" alt="Top languages" />
