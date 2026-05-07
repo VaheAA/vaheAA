@@ -20,7 +20,7 @@ Senior Full-Stack Engineer with 5+ years building fintech and SaaS products. Spe
 ## Experience
 
 **Full Stack Engineer — [TeamPay](https://teampay.am)** `Feb 2025 – Present`
-Fintech web apps including cashbox and invoicing systems. React, Angular, Node.js, CI/CD pipelines.
+Fintech web apps including cashbox and invoicing systems. React, Angular, Node.js, Microservices, CI/CD pipelines.
 
 **Full Stack Engineer — Iguan Systems** `May 2023 – Feb 2025`
 Full-stack apps with Node.js, Vue, React. REST & GraphQL APIs, WebSocket real-time features, JWT/OAuth2 auth, SQL & NoSQL databases, microservices and event-driven patterns.
