@@ -8,39 +8,25 @@ Senior Full-Stack Engineer with 5+ years building fintech and SaaS products. Spe
 
 ## Stack
 
-**Frontend**
+| | |
+|---|---|
+| **Frontend** | JavaScript · TypeScript · React · Next.js · Vue · Nuxt · Angular · TailwindCSS · Redux / Zustand / Pinia |
+| **Backend** | Node.js · Express · REST · GraphQL · WebSockets · JWT · OAuth2 |
+| **Databases** | PostgreSQL · MySQL · MongoDB · ArangoDB · Redis · Supabase · Firebase |
+| **Tools** | Docker · GitLab CI/CD · Git · Webpack · Figma · Linux |
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /></a>&nbsp;
-<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" /></a>&nbsp;
-<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" title="Next.js" /></a>&nbsp;
-<a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32" alt="Vue.js" title="Vue.js" /></a>&nbsp;
-<a href="https://nuxt.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="32" height="32" alt="Nuxt.js" title="Nuxt.js" /></a>&nbsp;
-<a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32" height="32" alt="Angular" title="Angular" /></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="TailwindCSS" title="TailwindCSS" /></a>&nbsp;
-<a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" height="32" alt="Redux" title="Redux" /></a>
+---
 
-**Backend**
+## Experience
 
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" /></a>&nbsp;
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" alt="Express.js" title="Express.js" /></a>
+**Full Stack Engineer — [TeamPay](https://teampay.am)** `Feb 2025 – Present`
+Fintech web apps including cashbox and invoicing systems. React, Angular, Node.js, CI/CD pipelines.
 
-**Databases**
+**Full Stack Engineer — Iguan Systems** `May 2023 – Feb 2025`
+Full-stack apps with Node.js, Vue, React. REST & GraphQL APIs, WebSocket real-time features, JWT/OAuth2 auth, SQL & NoSQL databases, microservices and event-driven patterns.
 
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL" /></a>&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" title="MongoDB" /></a>&nbsp;
-<a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" height="32" alt="Redis" title="Redis" /></a>&nbsp;
-<a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="32" height="32" alt="Supabase" title="Supabase" /></a>&nbsp;
-<a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" height="32" alt="Firebase" title="Firebase" /></a>
-
-**Tools**
-
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" /></a>&nbsp;
-<a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab CI/CD" title="GitLab CI/CD" /></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" /></a>&nbsp;
-<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" alt="Figma" title="Figma" /></a>&nbsp;
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" /></a>
+**Full Stack Engineer (Freelance) — [Upwork](https://www.upwork.com/freelancers/~01567a27390ce8c5f1)** `Mar 2021 – Present`
+Top-Rated. End-to-end client projects — architecture, frontend, backend, API integrations, delivery.
 
 ---
 
